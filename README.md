@@ -1,4 +1,4 @@
 # recipes
 
-This page will have links.
+This page will have links to a few recipes.
 
